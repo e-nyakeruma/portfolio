@@ -13,12 +13,7 @@
 - [About](#about)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [File Structure](#file-structure)
-- [Setup & Installation](#setup--installation)
-- [Customization](#customization)
-- [Deployment](#deployment)
 - [Contact](#contact)
-- [License](#license)
 
 ---
 
@@ -59,5 +54,22 @@ The site highlights:
 | **Icons** | Font Awesome 6 |
 | **Hosting** | GitHub Pages |
 | **Version Control** | Git & GitHub |
+
+---
+
+## Contact
+
+Thank you for visiting my portfolio. I'm always open to new opportunities, collaborations, and meaningful conversations.
+
+---
+
+### 🔗 Social & Professional
+
+| Platform | Link |
+|----------|------|
+| **Primary:** | [edward.isaboke@gmail.com](mailto:edward.isaboke@gmail.com)
+| **LinkedIn** | [linkedin.com/in/edward-nyakeruma](https://linkedin.com/in/edward-nyakeruma) |
+| **GitHub** | [github.com/edward](https://github.com/edward) |
+| **Portfolio** | [yourusername.github.io/portfolio](https://yourusername.github.io/portfolio) |
 
 ---
