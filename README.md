@@ -8,15 +8,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Contact](#contact)
-
----
-
 ## About
 
 This is a modern, responsive portfolio website designed to showcase Edward Nyakeruma's professional experience, skills, projects, and achievements. Built with a focus on clean design, fast performance, and recruiter-friendly navigation.
